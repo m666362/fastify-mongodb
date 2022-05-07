@@ -1,0 +1,11 @@
+### Get all items
+GET http://127.0.0.1:3006/  HTTP/1.1
+
+### Get item by id
+GET http://127.0.0.1:3006/1  HTTP/1.1
+
+### Get all items
+GET http://127.0.0.1:3006/foo  HTTP/1.1
+
+### Get item by id
+GET http://127.0.0.1:3006/foo/1  HTTP/1.1
